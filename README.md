@@ -13,4 +13,4 @@ Hi, i am a programming beginner and i would like to learn about many programming
 -programming with html and C++
 
 ##Connection
--
+-discord:Trollface(onepunchtroll)
